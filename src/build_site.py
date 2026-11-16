@@ -5,6 +5,7 @@ from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from common import ARCHIVE, ROOT, read_json
+from build_coverage import build_coverage
 
 
 def main():
@@ -31,6 +32,7 @@ def main():
     path = ARCHIVE / "site/index.html"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(output, encoding="utf-8")
+    build_coverage(events, occurrences, assets, index, capture_label, ARCHIVE)
     print(f"Built {path}: {len(events)} records, {len(occurrences)} dates, {len(assets)} images")
 
 

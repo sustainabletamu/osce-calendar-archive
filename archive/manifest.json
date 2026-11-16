@@ -1075,6 +1075,11 @@
       "sha256": "1890c7a8cfb3d1dc685622e02bc3cc261a88efe366791e4907a31c48a453da8d"
     },
     {
+      "path": "reports/coverage-page.md",
+      "byte_size": 1085,
+      "sha256": "2b0b50ccbff2e8c040b72e5ad41fab63a7af96923e90436fae91dc209df8f271"
+    },
+    {
       "path": "reports/coverage.csv",
       "byte_size": 3563,
       "sha256": "b105a7268ec0a4a932f6931904cc4bb727b7b34024cabec9c08011b643ad6ec8"
@@ -1146,8 +1151,8 @@
     },
     {
       "path": "reports/progress.md",
-      "byte_size": 5161,
-      "sha256": "f5cd872604065cf8a21f6f9e1269fa712c24f1ec1311b79c28bb0621cddd0f03"
+      "byte_size": 6207,
+      "sha256": "1ecddf647d24a10e7b2ac66482555bc7c813a6bada76826208839569a38182bf"
     },
     {
       "path": "reports/publication.md",
@@ -1195,14 +1200,24 @@
       "sha256": "9dc2c2963eb2e3028c2a1b8b9cbf427648a6bcb57b8421322e1bf795819ecb03"
     },
     {
+      "path": "site/coverage.html",
+      "byte_size": 14625,
+      "sha256": "9697aa3aeeffe54815c82cf562b724c837d884c660be3120d6e3e112fa99ea77"
+    },
+    {
       "path": "site/index.html",
-      "byte_size": 1116005,
-      "sha256": "894e844f31de419ed5cfa8a94a60174869bfe2de7499e42324a5e75e97cba8da"
+      "byte_size": 1116004,
+      "sha256": "0d47657df799d44e707b0cd9624060988452eddb19e1c1dbda847b614d94eb89"
+    },
+    {
+      "path": "src/build_coverage.py",
+      "byte_size": 3848,
+      "sha256": "62f1d60e036da89d2893caf4c0a6745469bc5893a3d22184ff3b19b1b5bcbd8e"
     },
     {
       "path": "src/build_site.py",
-      "byte_size": 2397,
-      "sha256": "8ebb33316b231a38f8391e6b233cffa0ccfb3d5ad77fd0961124bb7da1ccf52c"
+      "byte_size": 2518,
+      "sha256": "7bc063a0d8979ce5163e9f2f23e072e6a9e22ea13432f13e7ecfb5601b9a20a1"
     },
     {
       "path": "src/common.py",
@@ -1218,6 +1233,11 @@
       "path": "src/content.py",
       "byte_size": 3617,
       "sha256": "69fa3ca94d809561437a77cef58815c6de5a798f2b4d76cc576a855e2c9a94c0"
+    },
+    {
+      "path": "src/coverage_template.html",
+      "byte_size": 10346,
+      "sha256": "0442639d5c266a559c520eeb764e8c0cb4fb3c6cb09dd8514417de994ed2d947"
     },
     {
       "path": "src/discover.py",
@@ -1266,8 +1286,8 @@
     },
     {
       "path": "src/verify_browser.py",
-      "byte_size": 7054,
-      "sha256": "7bbbf348f5a2e72c918117ffde8312deb793a0316fe4e474bc0003eebc801238"
+      "byte_size": 8415,
+      "sha256": "c6a122f1388c85921734809e75dc489ff862c43f328a4a465e3f57298aedeaaf"
     },
     {
       "path": "src/verify_package.py",
@@ -1276,8 +1296,8 @@
     },
     {
       "path": "src/viewer_template.html",
-      "byte_size": 18497,
-      "sha256": "89da9d6fc83c0a8805ad81735898152e919392eab8bd3ac72a70e831f30472c1"
+      "byte_size": 18496,
+      "sha256": "7e126536d68e5b2232d0e862b3b60df787ecbfc7ddbe9402f954fc5aae5234e3"
     },
     {
       "path": "tests/conftest.py",
