@@ -1,0 +1,22 @@
+{
+  "event_id": "379688",
+  "url": "https://calendar.tamu.edu/live/events/379688@JSON",
+  "acquired_at_utc": "2026-11-16T21:00:42.316063+00:00",
+  "status": 200,
+  "effective_url": "https://calendar.tamu.edu/live/events/379688-hullabloom-fest-the-gardens@JSON",
+  "content_type": "application/json; charset=UTF-8",
+  "byte_size": 6068,
+  "sha256": "9d867c1fee647709d490639051dc0ce55d0828b11c84a9d10db5ddddafcb762f",
+  "curl_exit_code": 0,
+  "error": null,
+  "path": "raw/qa/20261116T210146335702Z/379688-individual.json",
+  "headers_path": null,
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/events/379688-hullabloom-fest-the-gardens@JSON",
+  "requested_at_utc": null,
+  "capture_method": "independent read-only investigator curl; acquisition completion time from investigator metadata",
+  "headers": {
+    "Content-Type": "application/json; charset=UTF-8"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package."
+}

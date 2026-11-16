@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17966_2026_CED_AGF_Table.JPG",
+  "requested_at_utc": "2026-11-16T20:57:54.859653+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:55.864756+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-021-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17966_2026_CED_AGF_Table.JPG",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:56.077279+00:00",
+  "byte_size": 1580320,
+  "sha256": "ce627d11deb56829d2f02d9cdb6725a7aee00d1b9d24bd2e8c5ce51e8a88de71"
+}

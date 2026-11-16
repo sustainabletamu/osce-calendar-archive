@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/16519_2025_01_AGF_Recycling_Bins_at_Allen_Building_final_report_2.rev.1761751511.jpg",
+  "requested_at_utc": "2026-11-16T20:57:40.245294+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:41.250361+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-009-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/16519_2025_01_AGF_Recycling_Bins_at_Allen_Building_final_report_2.rev.1761751511.jpg",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:41.482510+00:00",
+  "byte_size": 3342529,
+  "sha256": "4a1071e056db517f8f12039a736ddcb4e9f8a09e72705d5b832ffb32bca1f7bc"
+}

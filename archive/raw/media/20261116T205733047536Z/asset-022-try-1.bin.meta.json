@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/13394_ASA_logo_maroon_with_white_background.rev.1724790812.png",
+  "requested_at_utc": "2026-11-16T20:57:56.082419+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:57.087528+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-022-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/13394_ASA_logo_maroon_with_white_background.rev.1724790812.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:57.204935+00:00",
+  "byte_size": 81301,
+  "sha256": "8500dc2d6b2889dd02fd9fde5ff3e4c1d65e53d6815a5fbdab9147fbdfdc3702"
+}

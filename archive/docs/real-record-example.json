@@ -1,0 +1,68 @@
+{
+  "documentation_only": true,
+  "description": "Subset of actual preserved public event359398; no invented values; full record remains in data/events.json",
+  "event": {
+    "event_id": "359398",
+    "group_id": 282,
+    "group_title": "Office of Sustainability",
+    "title": "Major Grant Abstracts Open",
+    "original_url": "https://calendar.tamu.edu/sustainability/event/359398-major-grant-abstracts-open",
+    "summary_html_original": "<p>\n  The Aggie Green Fund Advisory Committee (AGFAC) welcomes and encourages all students, faculty, and staff with a great idea for sustainability improvements to campus to apply and get their idea funded. Learn more at <a href=\"https://greenfund.tamu.edu/getagrant.html\">https://greenfund.tamu.edu/getagrant.html</a>\n</p>",
+    "description_html_original": null,
+    "image_asset_ids": [
+      "c4fd6302924cad987291017c274e8a3bacd6d0722875ccc5828d6563a2de4cae"
+    ],
+    "thumbnail_caption": "Leaf that represents Aggie Green Fund",
+    "thumbnail_alt": "Leaf that represents Aggie Green Fund",
+    "missing_fields": [
+      "description",
+      "location"
+    ]
+  },
+  "occurrence": {
+    "occurrence_id": "359398-c876d1d76243184abea9",
+    "event_id": "359398",
+    "start_iso_original": "2025-10-01T00:00:00-05:00",
+    "end_iso_original": null,
+    "timezone": "America/Chicago",
+    "display_timezone": "America/Chicago",
+    "all_day": true,
+    "display_start_local": "2025-10-01T00:00:00-05:00",
+    "display_end_local": null,
+    "recurrence_source_fields": {
+      "date": "October 1<span class=\"lw_date_year\">, 2025</span>",
+      "date_time": null,
+      "date_utc": "2025-10-01 05:00:00",
+      "date_iso": "2025-10-01T00:00:00-05:00",
+      "date_ts": 1759294800,
+      "tz_offset": -18000,
+      "date2_time": null,
+      "date2_utc": null,
+      "date2_iso": null,
+      "date2_ts": null,
+      "tz2_offset": null,
+      "repeats": null,
+      "repeats_until": null,
+      "repeats_start": "2025-10-01 05:00:00",
+      "repeats_end": null
+    },
+    "source_refs": [
+      {
+        "path": "raw/snapshots/20261116T210552114496Z/2025-10/page-001.json",
+        "url": "https://calendar.tamu.edu/live/json/v2/events/group/Office%20of%20Sustainability/start_date/2025-10-01/end_date/2025-10-31/response_fields/all/show_archived/both/paginate/100/",
+        "row_event_id": 359398,
+        "date_iso": "2025-10-01T00:00:00-05:00",
+        "acquired_at_utc": "2026-11-16T21:05:56.483932+00:00"
+      },
+      {
+        "path": "raw/snapshots/20261116T205631400633Z/2025-10/page-001.json",
+        "url": "https://calendar.tamu.edu/live/json/v2/events/group/Office%20of%20Sustainability/start_date/2025-10-01/end_date/2025-10-31/response_fields/all/show_archived/both/paginate/100/",
+        "row_event_id": 359398,
+        "date_iso": "2025-10-01T00:00:00-05:00",
+        "acquired_at_utc": "2026-11-16T20:56:35.810548+00:00"
+      }
+    ],
+    "warnings": [],
+    "visibility_status": "present_in_latest_snapshot"
+  }
+}

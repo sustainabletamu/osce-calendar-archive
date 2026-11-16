@@ -1,0 +1,442 @@
+[
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16512_19-IMG_8058.rev.1761668917.jpg",
+    "requested_at_utc": "2026-11-16T20:57:33.061816+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:34.066926+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-001-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16512_19-IMG_8058.rev.1761668917.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:34.408231+00:00",
+    "byte_size": 1370081,
+    "sha256": "d1741cfb2c311f485abed70c6cf1c6d6142c516976470d717739991ca812b118"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/13749_Week_withotu_Driving_2.PNG",
+    "requested_at_utc": "2026-11-16T20:57:34.426806+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:35.431937+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-003-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/13749_Week_withotu_Driving_2.PNG",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:35.524591+00:00",
+    "byte_size": 30062,
+    "sha256": "24f7a00d3b0ee42d7f37dd1bd8e47725ce2efa18ca87e32511dddbd024647d96"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/12238_logo-plus-maroon-graphic-stacked_1920x1080.rev.1709083617.png",
+    "requested_at_utc": "2026-11-16T20:57:35.534551+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:36.537938+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-005-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/12238_logo-plus-maroon-graphic-stacked_1920x1080.rev.1709083617.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:36.668502+00:00",
+    "byte_size": 186518,
+    "sha256": "fe8803d0df208562c8c385d3868deffbb04c48d392360d747af6415c1828d04f"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/13725_1920x1080_campus_socialmedia.rev.1727287837.jpg",
+    "requested_at_utc": "2026-11-16T20:57:36.672350+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:37.675047+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-006-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/13725_1920x1080_campus_socialmedia.rev.1727287837.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:37.868932+00:00",
+    "byte_size": 1706165,
+    "sha256": "5066133cb8eea05a5fbb75fca574d20801197f3079906f07bdaf757834b3c938"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16352_LiveWhale_CSDay_1920x1080_forcalendar.rev.1759962486.jpg",
+    "requested_at_utc": "2026-11-16T20:57:37.872571+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:38.877622+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-007-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16352_LiveWhale_CSDay_1920x1080_forcalendar.rev.1759962486.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:39.002836+00:00",
+    "byte_size": 200862,
+    "sha256": "c2d3511adbd309499bb06fd3e407bb2cc8606bf34c1301713aa4216c10db8fc9"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16278_stream-clean-image-med.rev.1759262348.jpg",
+    "requested_at_utc": "2026-11-16T20:57:39.004531+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:40.008363+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-008-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16278_stream-clean-image-med.rev.1759262348.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:40.242777+00:00",
+    "byte_size": 515425,
+    "sha256": "3df75fabd499126d5bba488b4110b4376d6764f0f4d309593e0d00cf2018c2dc"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16519_2025_01_AGF_Recycling_Bins_at_Allen_Building_final_report_2.rev.1761751511.jpg",
+    "requested_at_utc": "2026-11-16T20:57:40.245294+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:41.250361+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-009-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16519_2025_01_AGF_Recycling_Bins_at_Allen_Building_final_report_2.rev.1761751511.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:41.482510+00:00",
+    "byte_size": 3342529,
+    "sha256": "4a1071e056db517f8f12039a736ddcb4e9f8a09e72705d5b832ffb32bca1f7bc"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/12235_logo-plus-maroon-graphic-stacked_720x540.rev.1709054537.png",
+    "requested_at_utc": "2026-11-16T20:57:41.492685+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:42.497789+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-010-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/12235_logo-plus-maroon-graphic-stacked_720x540.rev.1709054537.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:42.605179+00:00",
+    "byte_size": 70336,
+    "sha256": "175ba0cc3f8a3dfe81bf82d10bb0ce0eae3c22847d571bf1ba40729723f4d09f"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16541_2025_Intern-First-Day3.JPG",
+    "requested_at_utc": "2026-11-16T20:57:42.610443+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:43.615564+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-011-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16541_2025_Intern-First-Day3.JPG",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:43.941737+00:00",
+    "byte_size": 1623953,
+    "sha256": "b2e804ee72eaf416c5596fdfbf97741d6b3ed5410a2d30695cec666a087e35ea"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16682_IMG_0288.rev.1764019716.jpg",
+    "requested_at_utc": "2026-11-16T20:57:43.951469+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:44.956611+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-012-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16682_IMG_0288.rev.1764019716.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:45.130918+00:00",
+    "byte_size": 944568,
+    "sha256": "eefaa3fbca53e312d24df5e2119edacd00f4513b7b0e00554aa8e3e40dff5d43"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16793_Black_Stacked.rev.1766168757.jpg",
+    "requested_at_utc": "2026-11-16T20:57:45.136626+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:46.140883+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-013-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16793_Black_Stacked.rev.1766168757.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:46.250319+00:00",
+    "byte_size": 102546,
+    "sha256": "8ffe710d1ebe5996a0f90854a9bb14844b0c259a57f2cacfad0768ef611cd1cb"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16794_Maroon_Graphic_Stacked.rev.1766168757.jpg",
+    "requested_at_utc": "2026-11-16T20:57:46.252634+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:47.257730+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-014-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16794_Maroon_Graphic_Stacked.rev.1766168757.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:47.506624+00:00",
+    "byte_size": 257731,
+    "sha256": "ec816370f964623afbcb51e6698bfd578a3e6e7f7ee1cda69ea2a3dfdb582b5f"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17045_DSC_0652.JPG",
+    "requested_at_utc": "2026-11-16T20:57:47.513120+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:48.516541+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-015-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17045_DSC_0652.JPG",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:48.782761+00:00",
+    "byte_size": 1275281,
+    "sha256": "e42735a46862a447ab30710b6db1a52e904c0506de9adfb38d622d2b982f5b00"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17481_Screenshot_2026-03-19_151123.rev.1773951126.png",
+    "requested_at_utc": "2026-11-16T20:57:48.788288+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:49.793389+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-016-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17481_Screenshot_2026-03-19_151123.rev.1773951126.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:49.939964+00:00",
+    "byte_size": 218515,
+    "sha256": "ce8510a8db8b632e91df856770465ace0f328ae7c6e133406789ddb8afa34d74"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/16795_Earth_MONTH_-_Social_1.rev.1766169748.jpg",
+    "requested_at_utc": "2026-11-16T20:57:49.947637+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:50.952782+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-017-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/16795_Earth_MONTH_-_Social_1.rev.1766169748.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:51.263274+00:00",
+    "byte_size": 1792253,
+    "sha256": "96ece98ecadf094942ff9074ba98362019da4320abb008e53f0f9c3698033729"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17122_Earth_Day_Template_-_Social.ai_2.rev.1775737390.png",
+    "requested_at_utc": "2026-11-16T20:57:51.274653+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:52.274823+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-018-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17122_Earth_Day_Template_-_Social.ai_2.rev.1775737390.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:52.443817+00:00",
+    "byte_size": 1108539,
+    "sha256": "7567a8b02595ce62b9956bd469d7b24b6021a91d588ebe6a1eec736869278351"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17389_chicks-fall-festival-667x500.rev.1772742107.jpg",
+    "requested_at_utc": "2026-11-16T20:57:52.447234+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:53.452401+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-019-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17389_chicks-fall-festival-667x500.rev.1772742107.jpg",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:53.558033+00:00",
+    "byte_size": 43693,
+    "sha256": "a6da18f3dd457ed55a5ad10c9a52232bd21547e09d9589186650780f59dbcae7"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17714_Donate_Dont_Dump_IG_Post.rev.1777039986.png",
+    "requested_at_utc": "2026-11-16T20:57:53.561650+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:54.566726+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-020-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17714_Donate_Dont_Dump_IG_Post.rev.1777039986.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:54.850883+00:00",
+    "byte_size": 2317692,
+    "sha256": "406348c06945b62cdf07dcae8b93ec38c6ed7df8bb5fac65e51ff2e19c42891c"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17966_2026_CED_AGF_Table.JPG",
+    "requested_at_utc": "2026-11-16T20:57:54.859653+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:55.864756+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-021-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17966_2026_CED_AGF_Table.JPG",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:56.077279+00:00",
+    "byte_size": 1580320,
+    "sha256": "ce627d11deb56829d2f02d9cdb6725a7aee00d1b9d24bd2e8c5ce51e8a88de71"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/13394_ASA_logo_maroon_with_white_background.rev.1724790812.png",
+    "requested_at_utc": "2026-11-16T20:57:56.082419+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:57.087528+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-022-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/13394_ASA_logo_maroon_with_white_background.rev.1724790812.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:57.204935+00:00",
+    "byte_size": 81301,
+    "sha256": "8500dc2d6b2889dd02fd9fde5ff3e4c1d65e53d6815a5fbdab9147fbdfdc3702"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/13748_19020x1080_WeekwoDrive.rev.1727369076.png",
+    "requested_at_utc": "2026-11-16T20:57:57.212824+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:58.217967+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-023-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/13748_19020x1080_WeekwoDrive.rev.1727369076.png",
+    "headers": {
+      "Content-Type": "image/png"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:58.361980+00:00",
+    "byte_size": 208933,
+    "sha256": "f2f9b75d2bbaf45434e4714b0fc00d0effec8a9d873ba7c1401c1a265afdbef4"
+  },
+  {
+    "url": "https://calendar.tamu.edu/live/image/gid/282/17967_2025_AGF_Showcase_HEAT_Group_Photo_4.JPG",
+    "requested_at_utc": "2026-11-16T20:57:58.370096+00:00",
+    "attempts": [
+      {
+        "at_utc": "2026-11-16T20:57:59.374737+00:00",
+        "http_status": 200
+      }
+    ],
+    "path": "raw/media/20261116T205733047536Z/asset-024-try-1.bin",
+    "http_status": 200,
+    "final_url": "https://calendar.tamu.edu/live/image/gid/282/17967_2025_AGF_Showcase_HEAT_Group_Photo_4.JPG",
+    "headers": {
+      "Content-Type": "image/jpeg"
+    },
+    "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+    "acquired_at_utc": "2026-11-16T20:57:59.710908+00:00",
+    "byte_size": 1153645,
+    "sha256": "c0c65cfee44e2af4a85c0375beccf0368fc1cf6c3e455145fa97f486fdc2f001"
+  }
+]

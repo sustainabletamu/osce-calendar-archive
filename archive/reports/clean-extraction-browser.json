@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "mode": "file://; browser offline=True; HTTP(S) routes aborted; clipboard disabled for fallback",
+  "archive": "/private/var/folders/mj/kyympcrx3px5ylg95thnc2680000gn/T/osce-clean-k3k3j7nj/archive",
+  "checks": [
+    {
+      "check": "Disk-opened file:// gallery renders all records while offline",
+      "passed": true
+    },
+    {
+      "check": "All card image references load from local files",
+      "passed": true
+    },
+    {
+      "check": "October2025 filter:16 IDs,18 dates",
+      "passed": true
+    },
+    {
+      "check": "Zero-result month shows labelled empty state",
+      "passed": true
+    },
+    {
+      "check": "Search finds historical full text record",
+      "passed": true
+    },
+    {
+      "check": "Full description plain text is exact and selectable",
+      "passed": true
+    },
+    {
+      "check": "Clipboard-unavailable fallback reveals and selects text",
+      "passed": true
+    },
+    {
+      "check": "Full-size image download points to a local file",
+      "passed": true
+    },
+    {
+      "check": "Keyboard Escape closes modal",
+      "passed": true
+    },
+    {
+      "check": "Risk-case detail 362803 opens with source attribution",
+      "passed": true
+    },
+    {
+      "check": "No-image event has labelled placeholder",
+      "passed": true
+    },
+    {
+      "check": "Risk-case detail 359400 opens with source attribution",
+      "passed": true
+    },
+    {
+      "check": "Multi-day event displays all five captured dates",
+      "passed": true
+    },
+    {
+      "check": "Risk-case detail 374684 opens with source attribution",
+      "passed": true
+    },
+    {
+      "check": "Null timed end is explicitly labelled",
+      "passed": true
+    },
+    {
+      "check": "Risk-case detail 377642 opens with source attribution",
+      "passed": true
+    },
+    {
+      "check": "Search indexes full description body",
+      "passed": true
+    },
+    {
+      "check": "Mobile layout has no horizontal overflow",
+      "passed": true
+    },
+    {
+      "check": "No remote requests made during browsing/search/details",
+      "passed": true
+    },
+    {
+      "check": "No JavaScript runtime errors",
+      "passed": true
+    }
+  ],
+  "remote_requests": [],
+  "runtime_errors": [],
+  "evidence_note": "Clean candidate ZIP extraction before final report/manifest inclusion; final exact ZIP verified again with external sidecar results."
+}

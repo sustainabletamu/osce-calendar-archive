@@ -1,0 +1,10 @@
+{
+  "before_snapshot": "20261116T205631400633Z",
+  "after_snapshot": "20261116T210552114496Z",
+  "before_rows": 109,
+  "after_rows": 109,
+  "added_occurrences": [],
+  "no_longer_returned_occurrences": [],
+  "changed_rows": [],
+  "preservation_policy": "All earlier raw snapshots and observations retained even if no longer publicly returned"
+}

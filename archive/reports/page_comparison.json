@@ -1,0 +1,275 @@
+[
+  {
+    "event_id": "359400",
+    "title": "Week Without Driving",
+    "page_name": "Week Without Driving",
+    "title_match": true,
+    "page_start": "2025-09-29T05:00:00+00:00",
+    "page_end": "2025-10-03T05:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": false,
+    "end_is_null_in_api": true,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 370,
+    "api_description_length": 0,
+    "page_description_length_normalized": 368,
+    "page_locations": [],
+    "api_location": null,
+    "api_location_title": null,
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,581,521/13749_Week_withotu_Driving_2.PNG",
+      "width": 521,
+      "height": 521
+    },
+    "api_image_asset_ids": [
+      "24f7a00d3b0ee42d7f37dd1bd8e47725ce2efa18ca87e32511dddbd024647d96"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/359400-week-without-driving",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "362803",
+    "title": "Major Grant Informational",
+    "page_name": "Major Grant Informational",
+    "title_match": true,
+    "page_start": "2025-10-02T23:00:00+00:00",
+    "page_end": "2025-10-03T00:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": true,
+    "end_is_null_in_api": false,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 435,
+    "api_description_length": 0,
+    "page_description_length_normalized": 428,
+    "page_locations": [
+      {
+        "@type": "VirtualLocation",
+        "url": "https://tamu.zoom.us/j/96345905488"
+      }
+    ],
+    "api_location": null,
+    "api_location_title": null,
+    "api_online_url": "https://tamu.zoom.us/j/96345905488",
+    "page_image": null,
+    "api_image_asset_ids": [],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/362803-major-grant-informational",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "363287",
+    "title": "Office Hours & Compost Dropoff",
+    "page_name": "Office Hours & Compost Dropoff",
+    "title_match": true,
+    "page_start": "2025-11-06T19:00:00+00:00",
+    "page_end": "2025-11-06T21:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": true,
+    "end_is_null_in_api": false,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 449,
+    "api_description_length": 0,
+    "page_description_length_normalized": 448,
+    "page_locations": [
+      {
+        "@type": "Place",
+        "name": "Pavilion",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Pavilion"
+        }
+      }
+    ],
+    "api_location": "Pavilion",
+    "api_location_title": "Pavilion",
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,2048,1536/16512_19-IMG_8058.jpg",
+      "width": 600,
+      "height": 600
+    },
+    "api_image_asset_ids": [
+      "d1741cfb2c311f485abed70c6cf1c6d6142c516976470d717739991ca812b118"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/363287-office-hours",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "374684",
+    "title": "AGF Student Committee Applications Due",
+    "page_name": "AGF Student Committee Applications Due",
+    "title_match": true,
+    "page_start": "2026-02-16T05:59:00+00:00",
+    "page_end": "2026-02-16T05:59:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": false,
+    "end_is_null_in_api": true,
+    "page_description_relation": "equals full description",
+    "api_summary_length": 0,
+    "api_description_length": 446,
+    "page_description_length_normalized": 445,
+    "page_locations": [],
+    "api_location": null,
+    "api_location_title": null,
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,1042,1042/11132_AGF_Standard_Logo.png",
+      "width": 600,
+      "height": 600
+    },
+    "api_image_asset_ids": [
+      "c4fd6302924cad987291017c274e8a3bacd6d0722875ccc5828d6563a2de4cae"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/374684-agf-student-committee-applications-due",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "377642",
+    "title": "Campus Earth Day",
+    "page_name": "Campus Earth Day",
+    "title_match": true,
+    "page_start": "2026-04-15T15:00:00+00:00",
+    "page_end": "2026-04-15T18:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": true,
+    "end_is_null_in_api": false,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 231,
+    "api_description_length": 759,
+    "page_description_length_normalized": 231,
+    "page_locations": [
+      {
+        "@type": "Place",
+        "name": "MSC Rudder Plaza",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "MSC Rudder Plaza"
+        }
+      }
+    ],
+    "api_location": "MSC Rudder Plaza",
+    "api_location_title": null,
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/17122_Earth_Day_Template_-_Social.ai_2.png",
+      "width": 600,
+      "height": 600
+    },
+    "api_image_asset_ids": [
+      "7567a8b02595ce62b9956bd469d7b24b6021a91d588ebe6a1eec736869278351"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/377642-campus-earth-day",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "379688",
+    "title": "Hullabloom Fest - The Gardens",
+    "page_name": "Hullabloom Fest - The Gardens",
+    "title_match": true,
+    "page_start": "2026-04-18T14:00:00+00:00",
+    "page_end": "2026-04-18T16:30:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": true,
+    "end_is_null_in_api": false,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 320,
+    "api_description_length": 1576,
+    "page_description_length_normalized": 320,
+    "page_locations": [
+      {
+        "@type": "Place",
+        "name": "Teaching Gardens Pavilion",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Teaching Gardens Pavilion"
+        }
+      }
+    ],
+    "api_location": "Teaching Gardens Pavilion",
+    "api_location_title": "Teaching Gardens Pavilion",
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,667,500/17389_chicks-fall-festival-667x500.jpg",
+      "width": 500,
+      "height": 500
+    },
+    "api_image_asset_ids": [
+      "a6da18f3dd457ed55a5ad10c9a52232bd21547e09d9589186650780f59dbcae7"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/379688-hullabloom-fest-the-gardens",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "386908",
+    "title": "Week Without Driving",
+    "page_name": "Week Without Driving",
+    "title_match": true,
+    "page_start": "2026-10-01T05:00:00+00:00",
+    "page_end": "2026-10-08T05:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": false,
+    "end_is_null_in_api": true,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 370,
+    "api_description_length": 0,
+    "page_description_length_normalized": 368,
+    "page_locations": [],
+    "api_location": null,
+    "api_location_title": null,
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,1920,1080/13748_19020x1080_WeekwoDrive.png",
+      "width": 0,
+      "height": 0
+    },
+    "api_image_asset_ids": [
+      "f2f9b75d2bbaf45434e4714b0fc00d0effec8a9d873ba7c1401c1a265afdbef4"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/386908-week-without-driving",
+    "image_identifier_match": true,
+    "location_match": true
+  },
+  {
+    "event_id": "386913",
+    "title": "Internship Applications Close",
+    "page_name": "Internship Applications Close",
+    "title_match": true,
+    "page_start": "2026-11-02T06:00:00+00:00",
+    "page_end": "2026-11-02T06:00:00+00:00",
+    "start_matches_any_occurrence": true,
+    "end_matches_any_occurrence": false,
+    "end_is_null_in_api": true,
+    "page_description_relation": "equals summary",
+    "api_summary_length": 1069,
+    "api_description_length": 0,
+    "page_description_length_normalized": 1067,
+    "page_locations": [],
+    "api_location": null,
+    "api_location_title": null,
+    "api_online_url": null,
+    "page_image": {
+      "@type": "ImageObject",
+      "url": "https://calendar.tamu.edu/live/image/gid/282/width/600/height/600/crop/1/src_region/0,0,3200,2133/17045_DSC_0652.JPG",
+      "width": 0,
+      "height": 0
+    },
+    "api_image_asset_ids": [
+      "e42735a46862a447ab30710b6db1a52e904c0506de9adfb38d622d2b982f5b00"
+    ],
+    "source_url": "https://calendar.tamu.edu/sustainability/event/386913-internship-applications-close",
+    "image_identifier_match": true,
+    "location_match": true
+  }
+]

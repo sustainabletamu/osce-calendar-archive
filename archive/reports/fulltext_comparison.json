@@ -1,0 +1,18 @@
+[
+  {
+    "event_id": "379688",
+    "summary_exact_match": true,
+    "description_exact_match": true,
+    "contact_exact_match": true,
+    "summary_chars": 327,
+    "description_chars": 2938
+  },
+  {
+    "event_id": "377642",
+    "summary_exact_match": true,
+    "description_exact_match": true,
+    "contact_exact_match": true,
+    "summary_chars": 252,
+    "description_chars": 863
+  }
+]

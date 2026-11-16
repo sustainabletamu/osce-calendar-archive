@@ -1,0 +1,218 @@
+[
+  {
+    "asset_id": "01243bbc88037b914ae793b80b0b451ad4dac26915ddcbb8eba5a0d4b6793d64",
+    "mime": "image/png",
+    "width": 1800,
+    "height": 1200,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "175ba0cc3f8a3dfe81bf82d10bb0ce0eae3c22847d571bf1ba40729723f4d09f",
+    "mime": "image/png",
+    "width": 720,
+    "height": 540,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "24f7a00d3b0ee42d7f37dd1bd8e47725ce2efa18ca87e32511dddbd024647d96",
+    "mime": "image/png",
+    "width": 581,
+    "height": 521,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "3df75fabd499126d5bba488b4110b4376d6764f0f4d309593e0d00cf2018c2dc",
+    "mime": "image/jpeg",
+    "width": 800,
+    "height": 600,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "406348c06945b62cdf07dcae8b93ec38c6ed7df8bb5fac65e51ff2e19c42891c",
+    "mime": "image/png",
+    "width": 1080,
+    "height": 1350,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "4a1071e056db517f8f12039a736ddcb4e9f8a09e72705d5b832ffb32bca1f7bc",
+    "mime": "image/jpeg",
+    "width": 2400,
+    "height": 3200,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "5066133cb8eea05a5fbb75fca574d20801197f3079906f07bdaf757834b3c938",
+    "mime": "image/jpeg",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "7567a8b02595ce62b9956bd469d7b24b6021a91d588ebe6a1eec736869278351",
+    "mime": "image/png",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "8500dc2d6b2889dd02fd9fde5ff3e4c1d65e53d6815a5fbdab9147fbdfdc3702",
+    "mime": "image/png",
+    "width": 2000,
+    "height": 2000,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "8ffe710d1ebe5996a0f90854a9bb14844b0c259a57f2cacfad0768ef611cd1cb",
+    "mime": "image/jpeg",
+    "width": 1080,
+    "height": 1081,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "96ece98ecadf094942ff9074ba98362019da4320abb008e53f0f9c3698033729",
+    "mime": "image/jpeg",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "a6da18f3dd457ed55a5ad10c9a52232bd21547e09d9589186650780f59dbcae7",
+    "mime": "image/jpeg",
+    "width": 667,
+    "height": 500,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "b2e804ee72eaf416c5596fdfbf97741d6b3ed5410a2d30695cec666a087e35ea",
+    "mime": "image/jpeg",
+    "width": 3200,
+    "height": 2133,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "c0c65cfee44e2af4a85c0375beccf0368fc1cf6c3e455145fa97f486fdc2f001",
+    "mime": "image/jpeg",
+    "width": 3200,
+    "height": 2133,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "c2d3511adbd309499bb06fd3e407bb2cc8606bf34c1301713aa4216c10db8fc9",
+    "mime": "image/jpeg",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "c4fd6302924cad987291017c274e8a3bacd6d0722875ccc5828d6563a2de4cae",
+    "mime": "image/png",
+    "width": 1042,
+    "height": 1042,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "ce627d11deb56829d2f02d9cdb6725a7aee00d1b9d24bd2e8c5ce51e8a88de71",
+    "mime": "image/jpeg",
+    "width": 3200,
+    "height": 2133,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "ce8510a8db8b632e91df856770465ace0f328ae7c6e133406789ddb8afa34d74",
+    "mime": "image/png",
+    "width": 573,
+    "height": 421,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "d1741cfb2c311f485abed70c6cf1c6d6142c516976470d717739991ca812b118",
+    "mime": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "e42735a46862a447ab30710b6db1a52e904c0506de9adfb38d622d2b982f5b00",
+    "mime": "image/jpeg",
+    "width": 3200,
+    "height": 2133,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "ec816370f964623afbcb51e6698bfd578a3e6e7f7ee1cda69ea2a3dfdb582b5f",
+    "mime": "image/jpeg",
+    "width": 1080,
+    "height": 540,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "eefaa3fbca53e312d24df5e2119edacd00f4513b7b0e00554aa8e3e40dff5d43",
+    "mime": "image/jpeg",
+    "width": 2048,
+    "height": 1536,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "f2f9b75d2bbaf45434e4714b0fc00d0effec8a9d873ba7c1401c1a265afdbef4",
+    "mime": "image/png",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  },
+  {
+    "asset_id": "fe8803d0df208562c8c385d3868deffbb04c48d392360d747af6415c1828d04f",
+    "mime": "image/png",
+    "width": 1920,
+    "height": 1080,
+    "match": true,
+    "hash_match": true,
+    "bytes_match": true
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/12238_logo-plus-maroon-graphic-stacked_1920x1080.rev.1709083617.png",
+  "requested_at_utc": "2026-11-16T20:57:35.534551+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:36.537938+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-005-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/12238_logo-plus-maroon-graphic-stacked_1920x1080.rev.1709083617.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:36.668502+00:00",
+  "byte_size": 186518,
+  "sha256": "fe8803d0df208562c8c385d3868deffbb04c48d392360d747af6415c1828d04f"
+}

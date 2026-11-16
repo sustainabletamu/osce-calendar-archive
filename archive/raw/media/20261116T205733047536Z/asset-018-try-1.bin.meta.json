@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17122_Earth_Day_Template_-_Social.ai_2.rev.1775737390.png",
+  "requested_at_utc": "2026-11-16T20:57:51.274653+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:52.274823+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-018-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17122_Earth_Day_Template_-_Social.ai_2.rev.1775737390.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:52.443817+00:00",
+  "byte_size": 1108539,
+  "sha256": "7567a8b02595ce62b9956bd469d7b24b6021a91d588ebe6a1eec736869278351"
+}

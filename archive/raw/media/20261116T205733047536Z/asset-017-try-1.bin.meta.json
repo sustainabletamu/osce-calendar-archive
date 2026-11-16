@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/16795_Earth_MONTH_-_Social_1.rev.1766169748.jpg",
+  "requested_at_utc": "2026-11-16T20:57:49.947637+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:50.952782+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-017-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/16795_Earth_MONTH_-_Social_1.rev.1766169748.jpg",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:51.263274+00:00",
+  "byte_size": 1792253,
+  "sha256": "96ece98ecadf094942ff9074ba98362019da4320abb008e53f0f9c3698033729"
+}

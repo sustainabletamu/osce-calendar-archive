@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17967_2025_AGF_Showcase_HEAT_Group_Photo_4.JPG",
+  "requested_at_utc": "2026-11-16T20:57:58.370096+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:59.374737+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-024-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17967_2025_AGF_Showcase_HEAT_Group_Photo_4.JPG",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:59.710908+00:00",
+  "byte_size": 1153645,
+  "sha256": "c0c65cfee44e2af4a85c0375beccf0368fc1cf6c3e455145fa97f486fdc2f001"
+}

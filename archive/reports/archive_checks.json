@@ -1,0 +1,138 @@
+{
+  "months": [
+    {
+      "month": "2025-08",
+      "raw_rows": 0,
+      "meta_total": 0,
+      "meta_pages": 0,
+      "http_status": 200
+    },
+    {
+      "month": "2025-09",
+      "raw_rows": 6,
+      "meta_total": 6,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2025-10",
+      "raw_rows": 18,
+      "meta_total": 18,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2025-11",
+      "raw_rows": 10,
+      "meta_total": 10,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2025-12",
+      "raw_rows": 2,
+      "meta_total": 2,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-01",
+      "raw_rows": 2,
+      "meta_total": 2,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-02",
+      "raw_rows": 7,
+      "meta_total": 7,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-03",
+      "raw_rows": 6,
+      "meta_total": 6,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-04",
+      "raw_rows": 19,
+      "meta_total": 19,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-05",
+      "raw_rows": 9,
+      "meta_total": 9,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-06",
+      "raw_rows": 5,
+      "meta_total": 5,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-07",
+      "raw_rows": 0,
+      "meta_total": 0,
+      "meta_pages": 0,
+      "http_status": 200
+    },
+    {
+      "month": "2026-08",
+      "raw_rows": 0,
+      "meta_total": 0,
+      "meta_pages": 0,
+      "http_status": 200
+    },
+    {
+      "month": "2026-09",
+      "raw_rows": 2,
+      "meta_total": 2,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-10",
+      "raw_rows": 18,
+      "meta_total": 18,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-11",
+      "raw_rows": 5,
+      "meta_total": 5,
+      "meta_pages": 1,
+      "http_status": 200
+    },
+    {
+      "month": "2026-12",
+      "raw_rows": 0,
+      "meta_total": 0,
+      "meta_pages": 0,
+      "http_status": 200
+    }
+  ],
+  "events": 78,
+  "raw_rows": 109,
+  "occurrences": 109,
+  "unique_raw_occurrence_keys": 109,
+  "assets": 24,
+  "asset_bytes": 20737236,
+  "events_with_media": 70,
+  "events_without_media": 8,
+  "null_description": 49,
+  "null_summary": 8,
+  "ownership_counts": {
+    "282": 109
+  },
+  "caption_alt_preservation": true,
+  "errors": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17389_chicks-fall-festival-667x500.rev.1772742107.jpg",
+  "requested_at_utc": "2026-11-16T20:57:52.447234+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:53.452401+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-019-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17389_chicks-fall-festival-667x500.rev.1772742107.jpg",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:53.558033+00:00",
+  "byte_size": 43693,
+  "sha256": "a6da18f3dd457ed55a5ad10c9a52232bd21547e09d9589186650780f59dbcae7"
+}

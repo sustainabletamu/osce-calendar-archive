@@ -1,0 +1,22 @@
+{
+  "event_id": "377642",
+  "url": "https://calendar.tamu.edu/live/events/377642@JSON",
+  "acquired_at_utc": "2026-11-16T21:00:43.833145+00:00",
+  "status": 200,
+  "effective_url": "https://calendar.tamu.edu/live/events/377642-campus-earth-day@JSON",
+  "content_type": "application/json; charset=UTF-8",
+  "byte_size": 4420,
+  "sha256": "f079c14cfb8cb86716cf5f365cfb31a6adda235a454996744b4eff698b7414b8",
+  "curl_exit_code": 0,
+  "error": null,
+  "path": "raw/qa/20261116T210146335702Z/377642-individual.json",
+  "headers_path": null,
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/events/377642-campus-earth-day@JSON",
+  "requested_at_utc": null,
+  "capture_method": "independent read-only investigator curl; acquisition completion time from investigator metadata",
+  "headers": {
+    "Content-Type": "application/json; charset=UTF-8"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package."
+}

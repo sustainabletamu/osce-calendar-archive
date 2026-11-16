@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17714_Donate_Dont_Dump_IG_Post.rev.1777039986.png",
+  "requested_at_utc": "2026-11-16T20:57:53.561650+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:54.566726+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-020-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17714_Donate_Dont_Dump_IG_Post.rev.1777039986.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:54.850883+00:00",
+  "byte_size": 2317692,
+  "sha256": "406348c06945b62cdf07dcae8b93ec38c6ed7df8bb5fac65e51ff2e19c42891c"
+}

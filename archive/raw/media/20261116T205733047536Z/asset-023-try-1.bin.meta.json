@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/13748_19020x1080_WeekwoDrive.rev.1727369076.png",
+  "requested_at_utc": "2026-11-16T20:57:57.212824+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:58.217967+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-023-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/13748_19020x1080_WeekwoDrive.rev.1727369076.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:58.361980+00:00",
+  "byte_size": 208933,
+  "sha256": "f2f9b75d2bbaf45434e4714b0fc00d0effec8a9d873ba7c1401c1a265afdbef4"
+}

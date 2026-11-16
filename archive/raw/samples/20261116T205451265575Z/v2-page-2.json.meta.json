@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/json/v2/events/group/Office%20of%20Sustainability/start_date/2025-10-01/end_date/2025-10-31/response_fields/all/paginate/1/?page=2",
+  "requested_at_utc": "2026-11-16T20:54:58.369521+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:54:59.370313+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/samples/20261116T205451265575Z/v2-page-2.json",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/json/v2/events/group/Office%20of%20Sustainability/start_date/2025-10-01/end_date/2025-10-31/response_fields/all/paginate/1?page=2",
+  "headers": {
+    "Content-Type": "application/json; charset=UTF-8"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:55:05.561371+00:00",
+  "byte_size": 5017,
+  "sha256": "51ba8dd68387848f19503c094cdc2ee12eddfe5399fd83d6c42e50964e11d696"
+}

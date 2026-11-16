@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/17481_Screenshot_2026-03-19_151123.rev.1773951126.png",
+  "requested_at_utc": "2026-11-16T20:57:48.788288+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:49.793389+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-016-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/17481_Screenshot_2026-03-19_151123.rev.1773951126.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:49.939964+00:00",
+  "byte_size": 218515,
+  "sha256": "ce8510a8db8b632e91df856770465ace0f328ae7c6e133406789ddb8afa34d74"
+}

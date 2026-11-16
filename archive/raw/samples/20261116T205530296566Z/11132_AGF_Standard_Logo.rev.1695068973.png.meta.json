@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/11132_AGF_Standard_Logo.rev.1695068973.png",
+  "requested_at_utc": "2026-11-16T20:55:35.146496+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:55:36.151310+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/samples/20261116T205530296566Z/11132_AGF_Standard_Logo.rev.1695068973.png",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/11132_AGF_Standard_Logo.rev.1695068973.png",
+  "headers": {
+    "Content-Type": "image/png"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:55:36.238931+00:00",
+  "byte_size": 33882,
+  "sha256": "c4fd6302924cad987291017c274e8a3bacd6d0722875ccc5828d6563a2de4cae"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/16352_LiveWhale_CSDay_1920x1080_forcalendar.rev.1759962486.jpg",
+  "requested_at_utc": "2026-11-16T20:57:37.872571+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:57:38.877622+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/media/20261116T205733047536Z/asset-007-try-1.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/16352_LiveWhale_CSDay_1920x1080_forcalendar.rev.1759962486.jpg",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:57:39.002836+00:00",
+  "byte_size": 200862,
+  "sha256": "c2d3511adbd309499bb06fd3e407bb2cc8606bf34c1301713aa4216c10db8fc9"
+}

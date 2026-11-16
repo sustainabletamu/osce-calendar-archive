@@ -1,0 +1,90 @@
+{
+  "passed": true,
+  "snapshot_id": "20261116T210552114496Z",
+  "counts": {
+    "months": 17,
+    "raw_pages": 17,
+    "raw_rows": 109,
+    "preserved_raw_observations": 218,
+    "events": 78,
+    "occurrences": 109,
+    "duplicate_raw_occurrence_rows_latest": 0,
+    "images": 24,
+    "image_bytes": 20737236,
+    "image_failures": 0,
+    "missing_fields": {
+      "location": 28,
+      "description": 49,
+      "contact_info": 31,
+      "image": 8,
+      "summary": 8
+    }
+  },
+  "checks": [
+    {
+      "check": "All 17 month responses successful and represented",
+      "passed": true
+    },
+    {
+      "check": "Monthly totals reconcile with all saved raw rows",
+      "passed": true
+    },
+    {
+      "check": "Raw current page hashes and byte lengths",
+      "passed": true
+    },
+    {
+      "check": "All acquisition bodies across samples/snapshots/media retain checksums",
+      "passed": true
+    },
+    {
+      "check": "Group ownership 282 only",
+      "passed": true
+    },
+    {
+      "check": "Event identities reconcile with all preserved snapshots",
+      "passed": true
+    },
+    {
+      "check": "Occurrence keys reconcile, with no dropped repeat dates",
+      "passed": true
+    },
+    {
+      "check": "All occurrences within inclusive requested local interval",
+      "passed": true
+    },
+    {
+      "check": "Original timestamps agree with supplied UTC and epoch",
+      "passed": true
+    },
+    {
+      "check": "Every original raw row survives in canonical source_fields",
+      "passed": true
+    },
+    {
+      "check": "Canonical original HTML and nulls exactly match selected source row",
+      "passed": true
+    },
+    {
+      "check": "Every event image reference resolves",
+      "passed": true
+    },
+    {
+      "check": "All canonical media bytes, dimensions, MIME and SHA-256 valid",
+      "passed": true
+    },
+    {
+      "check": "Canonical media hashes unique",
+      "passed": true
+    },
+    {
+      "check": "Caption and alt claims retained for every source image",
+      "passed": true
+    },
+    {
+      "check": "CSV has one row per occurrence",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

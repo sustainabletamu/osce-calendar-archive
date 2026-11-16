@@ -1,0 +1,21 @@
+{
+  "url": "https://calendar.tamu.edu/robots.txt",
+  "requested_at_utc": "2026-11-16T20:54:17.808003+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:54:18.211648+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/samples/20261116T205417793634Z/robots.txt",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/robots.txt",
+  "headers": {
+    "Content-Type": "text/plain",
+    "Content-Length": "94"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:54:18.333522+00:00",
+  "byte_size": 94,
+  "sha256": "56bcaf5d1d35b29db3deaadfc31dcb4dd975a5e556a6d4f4c6d2c453302450c4"
+}

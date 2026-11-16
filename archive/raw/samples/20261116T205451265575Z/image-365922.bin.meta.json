@@ -1,0 +1,20 @@
+{
+  "url": "https://calendar.tamu.edu/live/image/gid/282/width/80/height/80/crop/1/src_region/0,0,800,600/16278_stream-clean-image-med.jpg",
+  "requested_at_utc": "2026-11-16T20:54:56.100458+00:00",
+  "attempts": [
+    {
+      "at_utc": "2026-11-16T20:54:57.105576+00:00",
+      "http_status": 200
+    }
+  ],
+  "path": "raw/samples/20261116T205451265575Z/image-365922.bin",
+  "http_status": 200,
+  "final_url": "https://calendar.tamu.edu/live/image/gid/282/width/80/height/80/crop/1/src_region/0,0,800,600/16278_stream-clean-image-med.jpg",
+  "headers": {
+    "Content-Type": "image/jpeg"
+  },
+  "public_metadata_note": "HTTP headers minimized for public delivery; original response metadata remains in the local preservation package.",
+  "acquired_at_utc": "2026-11-16T20:54:58.361145+00:00",
+  "byte_size": 20844,
+  "sha256": "20adf9fbe2bedc7253e7a5121beca9892a3dc71148266eeed8a98367e3707339"
+}
