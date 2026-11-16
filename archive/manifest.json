@@ -1151,8 +1151,8 @@
     },
     {
       "path": "reports/progress.md",
-      "byte_size": 6207,
-      "sha256": "1ecddf647d24a10e7b2ac66482555bc7c813a6bada76826208839569a38182bf"
+      "byte_size": 6981,
+      "sha256": "7329c04097377f7f17f8ea8ddb6800c90b6b02427533967fae0c11e3ddf58a63"
     },
     {
       "path": "reports/publication.md",
@@ -1206,8 +1206,8 @@
     },
     {
       "path": "site/index.html",
-      "byte_size": 1116004,
-      "sha256": "0d47657df799d44e707b0cd9624060988452eddb19e1c1dbda847b614d94eb89"
+      "byte_size": 1115969,
+      "sha256": "a763ac3f8f0a6db30dcdfc43df1c3f67645b639a0f2534a01d7fc54e6c593b71"
     },
     {
       "path": "src/build_coverage.py",
@@ -1296,8 +1296,8 @@
     },
     {
       "path": "src/viewer_template.html",
-      "byte_size": 18496,
-      "sha256": "7e126536d68e5b2232d0e862b3b60df787ecbfc7ddbe9402f954fc5aae5234e3"
+      "byte_size": 18461,
+      "sha256": "70a95bd81842481c1517bbbbbcefd378f43e00c3b13207f283b878374a204347"
     },
     {
       "path": "tests/conftest.py",
